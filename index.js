@@ -1,6 +1,6 @@
 const fetch = require('node-fetch');
 
-const PANEL_URL = "https://panel.embotic.xyz/auth/login";
+const PANEL_URL = "https://panel.embotic.xyz/";
 const APP_API_KEY = "";
 const CLIENT_API_KEY = "";
 const DISCORD_WEBHOOK_URL = "";
