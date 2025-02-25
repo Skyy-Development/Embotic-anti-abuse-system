@@ -14,7 +14,6 @@ Now, **nobody has to pay $5 to Embotic**—you can get the script **directly fro
 - **Fair Access**: Now, anyone can access it for free, ensuring no one gets scammed.  
 
 ## **What’s Next?**  
-I demand that **Embotic stop selling my work immediately**. If they continue to monetize my content without permission, I will take further action.  
 
 If you bought this script from Embotic, **you were scammed**—the script was never theirs to sell. I recommend **seeking a refund** and avoiding their services in the future.  
 
